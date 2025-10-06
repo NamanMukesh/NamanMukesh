@@ -5,29 +5,35 @@
   </a>
 </p>
 
-
---- 
+---
 
 ## 🌟 About Me
 - 🎓 B.Tech CSE student  
-- 💻 Passionate about **MERN Stack Development**   
-- 🤝 Love collaborating and solving real-world problems   
+- 💻 Passionate **MERN Stack Developer**  
+- 🤝 Love collaborating and solving real-world problems  
 
 ---
 
 ## 🤝 Connect with Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/namanmukesh/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:namanmukesh5@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/NamanMukesh" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>  
+  <a href="https://www.linkedin.com/in/namanmukesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:namanmukesh5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NamanMukesh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,aws,powerbi" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,aws" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="48" alt="Power BI" title="Power BI" />
+</p>
 
 ---
 
@@ -51,23 +57,7 @@
 </p>
 
 ---
+
 <p align="center">
   Quitters Never Win! 🚀  
 </p>
-
-
-
-<!--
-**NamanMukesh/NamanMukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
