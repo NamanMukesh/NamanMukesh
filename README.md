@@ -117,24 +117,27 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanMukesh&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6EC7&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NamanMukesh&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6EC7&currStreakLabel=6C63FF&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&cache_seconds=60" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 📊 Languages Used  
+## 💻 Top Languages  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanMukesh&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanMukesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=6C63FF&cache_seconds=60" alt="Top Languages" />
 </div>
 
 ---
+
 
 <p align="center">
   Quitters Never Win! 🚀  
