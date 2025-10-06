@@ -63,7 +63,7 @@
 ## 📈 GitHub Streak  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NamanMukesh&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6EC7&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanMukesh&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -71,7 +71,10 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&cache_seconds=300" alt="GitHub Stats" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
+  </picture>
 </div>
 
 ---
