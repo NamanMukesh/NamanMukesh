@@ -38,14 +38,16 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -77,6 +79,10 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65" />
+      <br>Power BI
+    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -101,10 +107,6 @@
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65" />
-      <br>Power BI
-    </td>
   </tr>
 </table>
 <br><br>
@@ -115,36 +117,22 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=HarshChaturvedi27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=HarshChaturvedi27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChaturvedi27&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChaturvedi27&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChaturvedi27&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanMukesh&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6EC7&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
-</p>
+</div>
 
 ---
 
 ## 📊 Languages Used  
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanMukesh&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
-</p>
+</div>
 
 ---
 
