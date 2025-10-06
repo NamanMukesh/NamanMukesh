@@ -70,12 +70,17 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
     <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
   </picture>
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanMukesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
+</p>
+
 
 ---
 
