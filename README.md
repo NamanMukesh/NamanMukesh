@@ -86,8 +86,9 @@
 
 ## 💻 Top Languages  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanMukesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanMukesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Text"/>
+</div>
 
 ---
 
